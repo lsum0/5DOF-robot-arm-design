@@ -36,13 +36,19 @@ This robotic arm model was created as part of an academic assignment to design a
 
 ## 4.  Components & Assembly :
 
-- **Base Platform**: Solid foundation to anchor the arm.
-- **Rotary Base**: Enables horizontal arm rotation.
-- **Three Arm Segments**: Connected using cylindrical joints to allow smooth bending motion.
-- **Gripper (End Effector)**: Simulates object manipulation with two gripping fingers.
-- **Corner Supports**: Visual balance and aesthetic structure.
+![Robotic Arm in TinkerCAD](thecomponent.png)
 
----
+
+
+
+|  Component             |  Description                                                            |  Purpose                                  |
+|------------------------|------------------------------------------------------------------------|---------------------------------------------|
+| **Base Platform**      | A stable and flat foundation to secure the robotic arm.                | Ensures structural stability and balance.   |
+| **Rotary Base**        | A rotating mechanism allowing the entire arm to turn horizontally.     | Provides horizontal movement (yaw).         |
+| **Arm Segments (x3)**   | Three connected segments with cylindrical joints.                     | Allows vertical movement and reach.         |
+| **Gripper (End Effector)** | A claw-like structure with two fingers.                            | Enables the arm to pick and hold objects.   |
+| **Corner Supports**     | Structural beams placed diagonally at the base.                       | Enhances rigidity and improves aesthetics.  |
+
 
 ## 5.  Objectives : 
 
