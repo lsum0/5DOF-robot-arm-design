@@ -1,8 +1,5 @@
 #   5 DOF Robotic Arm – TinkerCAD Design 🦾 : 
-[Status](https://img.shields.io/badge/status-in_progress-blue)  
-[Arduino](https://img.shields.io/badge/Platform-Arduino-green)  
-[TinkerCad](https://img.shields.io/badge/Simulated_on-TinkerCad-orange)  
-[Level](https://img.shields.io/badge/Difficulty-Beginner-lightgrey)  
+![Status](https://img.shields.io/badge/status-in_progress-blue)  ![Arduino](https://img.shields.io/badge/Platform-Arduino-green)  ![TinkerCad](https://img.shields.io/badge/Simulated_on-TinkerCad-orange)  ![Level](https://img.shields.io/badge/Difficulty-Beginner-lightgrey)  
 
 A fully 3D-designed 5 Degrees of Freedom (DOF) robotic arm built using [TinkerCAD](https://www.tinkercad.com/things/gCwtqTSA52X-cool-snicket). This model demonstrates the mechanical structure of a robotic arm capable of multi-directional movement and object manipulation using a claw-style end effector.
 
