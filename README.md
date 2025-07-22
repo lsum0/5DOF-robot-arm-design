@@ -32,7 +32,7 @@ This robotic arm model was created as part of an academic assignment to design a
 
 ---
 
-## 🏗️ Components & Assembly
+## 4.  Components & Assembly :
 
 - **Base Platform**: Solid foundation to anchor the arm.
 - **Rotary Base**: Enables horizontal arm rotation.
@@ -42,7 +42,7 @@ This robotic arm model was created as part of an academic assignment to design a
 
 ---
 
-## 🎯 Objectives
+## 5.  Objectives : 
 
 - Understand the mechanical structure of multi-joint robotic systems.
 - Learn how DOF contributes to range of motion and flexibility.
@@ -50,7 +50,7 @@ This robotic arm model was created as part of an academic assignment to design a
 
 ---
 
-## 🚧 Future Enhancements
+## 6. Future Enhancements : 
 
 - Add servo motor mounting placeholders for real-world prototyping.
 - Animate the movement using TinkerCAD Circuits or external simulation tools.
@@ -59,5 +59,25 @@ This robotic arm model was created as part of an academic assignment to design a
 
 ---
 
-## 📁 Files Included
+## 7.  Files Included :
+
+
+```Text 
+ 5-dof-arm-tinkercad/
+├── README.md
+├── Disgen.jpeg 
+├── design_notes.txtt
+└── STL Files 
+
+```
+
+---
+
+## 8. Learnings & Challenges : 
+
+- Precision in joint placement was crucial for realistic movement.
+- Ensuring rotational clearance between parts required careful scaling.
+- Layered design helped modularize each part of the arm.
+
+
 
