@@ -26,7 +26,7 @@ This robotic arm model was created as part of an academic assignment to design a
 
 ## 3.  Preview :
 
-![Robotic Arm in TinkerCAD](.jpeg)
+![Robotic Arm in TinkerCAD](Disgen.jpeg)
 
 
 
