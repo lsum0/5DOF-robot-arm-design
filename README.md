@@ -1,6 +1,6 @@
 #   5 DOF Robotic Arm – TinkerCAD Design 🦾 : 
 
-A fully 3D-designed 5 Degrees of Freedom (DOF) robotic arm built using [TinkerCAD](https://www.tinkercad.com/). This model demonstrates the mechanical structure of a robotic arm capable of multi-directional movement and object manipulation using a claw-style end effector.
+A fully 3D-designed 5 Degrees of Freedom (DOF) robotic arm built using [TinkerCAD](https://www.tinkercad.com/things/gCwtqTSA52X-cool-snicket). This model demonstrates the mechanical structure of a robotic arm capable of multi-directional movement and object manipulation using a claw-style end effector.
 
 ---
 
